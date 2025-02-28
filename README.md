@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python, Linux, Bash scripting, front-end JS
 - 🌱 I’m currently learning a bit of intermediate Python and tinkering with front-end JS
 - 💞️ I’m *not* currently looking to collaborate on anything
-- 📫 How to reach me: [Email](mailto:rjk@rjkcodes.site?subject=Blog%20Feedback)
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I spent the last 15+ years using Debina (or Debina derivatives) as my daily driver
 
